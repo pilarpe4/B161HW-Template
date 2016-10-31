@@ -10,18 +10,18 @@ Pokud nemáte účet na Githubu tak si ho můžete pomocí tohoto odkazu také z
 
 Víme, že umět git, není prerekvizita k absolvování toho předmětu. Nicméně rozhodli jsme se, že je to tak elementární záležitost, že to budeme vyžadovat k odevzdání domácího úkolu.
 
-Avšak aby jsme na vás nebyli zlí, pokud máte jakýkoli problém s gitem, tak prosím kontaktujte mne  [Tomáš Sýkora](mailto://tomas.sykora@fit.cvut.cz), věnuji vám veškerý čas potřebný k tomu aby jste byli schopni úkol odevzdat.
+Avšak abychom na vás nebyli zlí, pokud máte jakýkoli problém s gitem, tak prosím kontaktujte mne  [Tomáš Sýkora](mailto://tomas.sykora@fit.cvut.cz), věnuji vám veškerý čas potřebný k tomu, abyste byli schopni úkol odevzdat.
 
 Potřebný materiál k nastudování funkčnosti gitu naleznete [zde](https://guides.github.com)
-Pokud by jste chtěli papírovou literaturu můžu doporučit [toto](https://knihy.nic.cz/files/nic/edice/scott_chacon_pro_git.pdf)
+Pokud byste chtěli papírovou literaturu můžu doporučit [toto](https://knihy.nic.cz/files/nic/edice/scott_chacon_pro_git.pdf)
 
 ### Rozložení repozitáře
 
-Vypracovaný domácí úkol musí být k odevzdání ve větvi `master`. Toto vám nezakazuje používat ostatní větve, naopak doporučujeme je používat. Avšak naše automatické testy budou brát v potaz pouze `master` větev.
+Vypracovaný domácí úkol musí být k odevzdání ve větvi `master`. Toto vám nezakazuje používat ostatní větve, naopak doporučujeme je používat. Avšak naše automatické testy budou brát v potaz pouze `master` větev (respektive defaultní větev).
 
 Soubor `plug.scad`, který se vám automaticky vygeneruje ve vašem repozitáři nepřejmenovávejte, je potřebný k poloautomatickému vyhodnocení vaší práce.
 
-Do souboru `USERNAME` vložte svůj školní username pokud ho tam nevložíte, váš úkol nebude ohodnocen.
+Do souboru `USERNAME` vložte svůj školní username, pokud ho tam nevložíte, váš úkol nebude ohodnocen.
 
 ### Kontrolní body
 
