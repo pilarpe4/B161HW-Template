@@ -21,6 +21,8 @@ Vypracovaný domácí úkol musí být k odevzdání ve větvi `master`. Toto v�
 
 Soubor `plug.scad`, který se vám automaticky vygeneruje ve vašem repozitáři nepřejmenovávejte, je potřebný k poloautomatickému vyhodnocení vaší práce.
 
+Do souboru `USERNAME` vložte svůj školní username pokud ho tam nevložíte, váš úkol nebude ohodnocen.
+
 ### Kontrolní body
 
 
