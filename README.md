@@ -19,7 +19,7 @@ Pokud byste chtěli papírovou literaturu můžu doporučit [toto](https://knihy
 
 Vypracovaný domácí úkol musí být k odevzdání ve větvi `master`. Toto vám nezakazuje používat ostatní větve, naopak doporučujeme je používat. Avšak naše automatické testy budou brát v potaz pouze `master` větev (respektive defaultní větev).
 
-Soubor `plug.scad`, který se vám automaticky vygeneruje ve vašem repozitáři nepřejmenovávejte, je potřebný k poloautomatickému vyhodnocení vaší práce.
+Soubor `plug.scad`, který se vám automaticky vygeneruje ve vašem repozitáři nepřejmenovávejte, je potřebný k poloautomatickému vyhodnocení vaší práce. Dejte do něj modul `plug`.
 
 Do souboru `USERNAME` vložte svůj školní username, pokud ho tam nevložíte, váš úkol nebude ohodnocen.
 
