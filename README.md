@@ -26,7 +26,7 @@ Do souboru `USERNAME` vložte svůj školní username, pokud ho tam nevložíte,
 ### Kontrolní body
 
 
-Termín odevzdání je 4.12.2016 včetně. Pozdní odevzdání není možné. V případě doložené dlouhodobé vážné nemoci je možné domluvit se na speciálním termínu. Nemoc či nehoda těsně před odevzdáním neomlouvá.
+Termín odevzdání je 7.12.2016 včetně. Pozdní odevzdání není možné. V případě doložené dlouhodobé vážné nemoci je možné domluvit se na speciálním termínu. Nemoc či nehoda těsně před odevzdáním neomlouvá.
 
 Po ohodnocení (které proběhne až po termínu odevzdání) nelze úlohu opravit. Před termínem odevzdání je ji však možno konzultovat i pushnovat do repozitáře v rozpracovaném stavu.
 
@@ -34,7 +34,7 @@ Při hodnocení se bude poloautomaticky testovat sada připravených argumentů 
 
 Počet (ne)úspěšných testů přímo ovlivňuje hodnocení. Testy budou po ohodnocení úloh zveřejněny. Skladba testů odpovídá obtížnosti a závažnosti jednotlivých částí úkolu, není tedy možné chtít kompenzaci za to, že jedna chyba ovlivnila výsledek více testů.
 
-Před deadlinem proběhne několik kol odevzdání na nečisto. Cvičící vaše řešení nechá projet testy a upozorní vás prostřednictvím Issues například na to, že nějaká chyba rozbila většinu z nich, ale nemůže vám testy ukázat (tvořit úlohu přímo na míru testům by bylo příliš jednoduché). Tyto kola proběhnou 7.11., 14.11., 21.11. a 28.11. vždy okolo 01:00 v noci. V tento čas musí být úloha na GitHubu. Zpětnou vazbu můžete očekávat v tom stejném tydnu. Mimo tyto termíny není možné nechat úlohu projet testy.
+Před deadlinem proběhne několik kol odevzdání na nečisto. Cvičící vaše řešení nechá projet testy a upozorní vás prostřednictvím Issues například na to, že nějaká chyba rozbila většinu z nich, ale nemůže vám testy ukázat (tvořit úlohu přímo na míru testům by bylo příliš jednoduché). Tyto kola proběhnou 7.11., 14.11., 21.11., 28.11. a 5.12. vždy okolo 01:00 v noci. V tento čas musí být úloha na GitHubu. Zpětnou vazbu můžete očekávat v tom stejném tydnu. Mimo tyto termíny není možné nechat úlohu projet testy.
 
 
 
