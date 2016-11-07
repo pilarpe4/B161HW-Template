@@ -34,7 +34,7 @@ Při hodnocení se bude poloautomaticky testovat sada připravených argumentů 
 
 Počet (ne)úspěšných testů přímo ovlivňuje hodnocení. Testy budou po ohodnocení úloh zveřejněny. Skladba testů odpovídá obtížnosti a závažnosti jednotlivých částí úkolu, není tedy možné chtít kompenzaci za to, že jedna chyba ovlivnila výsledek více testů.
 
-Před deadlinem proběhne několik kol odevzdání na nečisto. Cvičící vaše řešení nechá projet testy a upozorní vás prostřednictvím Issues například na to, že nějaká chyba rozbila většinu z nich, ale nemůže vám testy ukázat (tvořit úlohu přímo na míru testům by bylo příliš jednoduché). Tyto kola proběhnou 7.11., 14.11., 21.11., 28.11. a 5.12. vždy okolo 01:00 v noci. V tento čas musí být úloha na GitHubu. Zpětnou vazbu můžete očekávat v tom stejném tydnu. Mimo tyto termíny není možné nechat úlohu projet testy.
+Před deadlinem proběhne několik kol odevzdání na nečisto. Cvičící vaše řešení nechá projet testy a upozorní vás prostřednictvím Issues například na to, že nějaká chyba rozbila většinu z nich, ale nemůže vám testy ukázat (tvořit úlohu přímo na míru testům by bylo příliš jednoduché). Tyto kola proběhnou 14.11., 21.11., 28.11. a 5.12. vždy okolo 01:00 v noci. V tento čas musí být úloha na GitHubu. Zpětnou vazbu můžete očekávat v tom stejném tydnu. Mimo tyto termíny není možné nechat úlohu projet testy.
 
 
 
